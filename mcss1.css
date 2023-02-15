@@ -1,0 +1,38 @@
+#para1{
+      color:green;
+   font-family:arial;
+   text-align:center;
+   font-size:60;
+   }
+h1{
+    color:blue;
+   font-size:40;
+   text-align:right;
+   background-color:yellow;
+}
+
+#para {
+      color:blue;
+   font-family:arial;
+   font-size:50;
+  }
+
+p{
+ color
+ border:1px solid black;
+ padding:10px;
+ margin:30px;
+ background-color:pink;
+}
+
+body{
+   
+   background-image:url("/home/mca/Pictures/index.jpeg")
+}
+
+/*div{
+   color:blue
+   text-decoration:overline;
+   font-size:200%
+   }*/
+
